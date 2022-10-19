@@ -14,16 +14,16 @@ This project requires the following Python libraries installed:
 
 ### Code
 
-Code is provided in the `cat-dog` notebook file. Also included, are the dataset files. `Cat` and `Dog` are the data I used, but I also added the original 24,000 image dataset `PetImages (ALL)`
+Code is provided in the `cat-dog` notebook file.
 
 
 ### Data
+Datasete link: https://drive.google.com/drive/folders/1uU6HwlCId6lzCzMVnHg6sOAA2zPOi0FA?usp=sharing
 
 Data includes images of cats and dogs, which are used to train the CNN
 
-The train set has ***x*** examples
-The test set has ***y*** examples
+There are **5999** images of `Dogs` and **5997** images of `Cats`
 
 
 **Results**
-- `Cat` or `Dogs`
+- `Cat` or `Dog`
