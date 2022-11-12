@@ -25,5 +25,5 @@ Data includes images of cats and dogs, which are used to train the CNN
 There are **5999** images of `Dogs` and **5997** images of `Cats`
 
 
-**Results**
+### Results
 - `Cat` or `Dog`
